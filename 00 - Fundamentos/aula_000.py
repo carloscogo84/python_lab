@@ -3,7 +3,7 @@
 # Comentario de uma linha
 
 # Permite escrever um comentário
-print(123)  # Função que imprime no trminal 123
+print(123)  # Função que exibe no trminal 123
 
 
 # DOCSTRING
