@@ -1,6 +1,6 @@
 # COMENTÁRIOS
 
-# Comentario de uma linha
+# Comentário de uma linha
 
 # Permite escrever um comentário
 print(123)  # Função que exibe no trminal 123
