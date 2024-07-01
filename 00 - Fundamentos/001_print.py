@@ -1,6 +1,6 @@
 # FUNÇÃO PRINT
 
-# Neste a caso a função print recebe (argumentos não nomeados)
+# Neste caso a função print recebe (argumentos não nomeados)
 print(1)
 print(12, 10)
 

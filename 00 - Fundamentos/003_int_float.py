@@ -1,7 +1,7 @@
 # TIPOS DE DADOS INT / FLOAT
 
 # O int -> Número inteiro
-# O tipo INT representa qualquer número positivo ou negativo. O int sem sinal é considerado positivo.
+# O tipo INT (inteiro) representa qualquer número positivo ou negativo. O int sem sinal é considerado positivo.
 
 print("int =", 11)
 print("int =", -11)
